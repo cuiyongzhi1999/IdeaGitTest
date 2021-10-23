@@ -17,6 +17,7 @@ public class HelloSpringBoot {
     public String hello(){
         System.out.println("heheh");
         System.out.println("更新1次");
+        System.out.println("创建分支");
         return "Hello Spring Boot";
     }
 }
