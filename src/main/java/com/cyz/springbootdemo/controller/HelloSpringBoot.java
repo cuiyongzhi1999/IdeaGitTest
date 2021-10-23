@@ -16,6 +16,7 @@ public class HelloSpringBoot {
     @RequestMapping("/hello")
     public String hello(){
         System.out.println("heheh");
+        System.out.println("更新1次");
         return "Hello Spring Boot";
     }
 }
