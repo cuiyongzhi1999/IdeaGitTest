@@ -19,6 +19,7 @@ public class HelloSpringBoot {
         System.out.println("更新1次");
         System.out.println("创建分支");
         System.out.println("修改dev分支");
+        System.out.println("准备提交");
         return "Hello Spring Boot";
     }
 }
