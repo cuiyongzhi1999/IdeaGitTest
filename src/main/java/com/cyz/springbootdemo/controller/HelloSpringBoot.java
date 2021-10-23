@@ -21,6 +21,7 @@ public class HelloSpringBoot {
         System.out.println("修改dev分支");
         System.out.println("准备提交");
         System.out.println("在线更新");
+        System.out.println("测试SSH方式");
         return "Hello Spring Boot";
     }
 }
